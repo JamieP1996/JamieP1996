@@ -2,7 +2,7 @@
 - 👀 I’m interested in UI/UX, App Development, Artificial Intelligence and Digital Fitness Solutions
 - 🌱 I’m currently learning Flutter, Python for AI, and Web Automation 
 - 💞️ I’m looking to collaborate on any project that includes any of the above... and open to suggestions too!
-- 📫 How to reach me: instagram @Jamespotter.io, email: jamesrhyspotter@gmail.com
+- 📫 How to reach me: instagram @Jamesrhyspotter, email: jamesrhyspotter@gmail.com
 
 <!---
 JamieP1996/JamieP1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
