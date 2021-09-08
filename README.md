@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JamieP1996
+- 👋 Hi, I’m James!
 - 👀 I’m interested in UI/UX, App Development, Artificial Intelligence and Digital Fitness Solutions
 - 🌱 I’m currently learning Flutter, Python for AI, and Web Automation 
 - 💞️ I’m looking to collaborate on any project that includes any of the above... and open to suggestions too!
